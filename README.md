@@ -13,3 +13,11 @@ Projeto de uma aplicação web para cadastro de doadores de sangue, realizado du
 <li>NodeJS</li>
 <li>Express</li>
 <li>Postgres</li>
+
+
+<h3>Dependencias</h3>
+Use npm as your default package manager
+
+  npm install
+
+
